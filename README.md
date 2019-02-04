@@ -1,11 +1,8 @@
 # re-carousel [![npm-version][npm-badge]][npm-link] [![size][size-src]][size-link]
 
-*Note: James Carvallyo used this original repository (created by Amio: http://github.com/amio) to riff off of (in addition to removing various 
-components and 
-functionality to achieve functionality outlined in the code challenge). 
+*Note: James Carvallyo used an original repository (created by Amio: http://github.com/amio) to riff off of (in addition to removing various components and functionality to achieve functionality outlined in the code challenge). 
 
-James is the original author of the "Square" component used 
-in this repository. James also created the SVGs used in this project. Images were sourced from google.
+James is the original author of the "Square" component used in this repository. James also created the SVGs used in this project. Images were sourced from google.
 
 Also note that the white circle serves as the FPO (for placement only) icon. You could replace the FPO with another 
 icon of your choice, such as Logo1, Logo2, or Logo3 found in this repo).
