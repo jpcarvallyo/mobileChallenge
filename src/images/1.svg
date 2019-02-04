@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="76.4192708%" y1="15.0455729%" x2="12.890625%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2BC6DF" offset="0%"></stop>
+            <stop stop-color="#6614E3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-224.000000, -178.000000)">
+            <g id="1" transform="translate(224.000000, 178.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="30" cy="30" r="30"></circle>
+                <text font-family="ProximaNova-Bold, Proxima Nova" font-size="30" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="23" y="39">1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
