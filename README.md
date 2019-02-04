@@ -1,6 +1,6 @@
 # re-carousel [![npm-version][npm-badge]][npm-link] [![size][size-src]][size-link]
 
-*Note: James Carvallyo used this original repository (created by Amio) to riff off of (in addition to removing various 
+*Note: James Carvallyo used this original repository (created by Amio: http://github.com/amio) to riff off of (in addition to removing various 
 components and 
 functionality to achieve functionality outlined in the code challenge). 
 
@@ -10,8 +10,9 @@ in this repository. James also created the SVGs used in this project. Images wer
 Also note that the white circle serves as the FPO (for placement only) icon. You could replace the FPO with another 
 icon of your choice, such as Logo1, Logo2, or Logo3 found in this repo).
 
-Below is the original author's demo and documentation. Here are his instructions below.
+Please also note that this is optimized for mobile only. James understands that the next step would be to ensure that the layout looks great on screens larger than the phone.
 
+Below is the original author's demo and documentation. Here are his instructions below.
 
 Minimal carousel component for React.
 
@@ -87,11 +88,6 @@ npm run test  # run tests
 
 ## License
 
-[MIT][mit] © [Amio][author]
-
-[npm-badge]: https://badgen.net/npm/v/re-carousel
-[npm-link]: https://www.npmjs.com/package/re-carousel
-[size-src]: https://badgen.net/bundlephobia/minzip/re-carousel
-[size-link]: https://bundlephobia.com/result?p=re-carousel
+[MIT][mit] © [jpcarvallyo][author]
 [mit]: http://opensource.org/licenses/MIT
-[author]: http://github.com/amio
+[author]: jpcarvallyo
