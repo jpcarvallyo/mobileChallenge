@@ -7,7 +7,7 @@ James is the original author of the "Square" component used in this repository. 
 Also note that the white circle serves as the FPO (for placement only) icon. You could replace the FPO with another 
 icon of your choice, such as Logo1, Logo2, or Logo3 found in this repo).
 
-Please also note that this is optimized for mobile only. James understands that the next step would be to ensure that the layout looks great on screens larger than the phone.
+Please also note that this is optimized for mobile, tablets, and regular sized laptops only. James understands that the next step would be to ensure that the layout looks great on retina displays.
 
 Below is the original author's demo and documentation. Here are his instructions below.
 
