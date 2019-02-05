@@ -1,9 +1,9 @@
 {
-  "name": "re-carousel",
-  "version": "2.3.1",
-  "description": "Minimal carousel component for React",
-  "homepage": "https://amio.github.io/re-carousel",
-  "repository": "amio/re-carousel",
+  "name": "creative-technologist-challenge",
+  "version": "1",
+  "description": "Challenge for uber",
+  "homepage": "https://github.com/jpcarvallyo/mobileChallenge",
+  "repository": "jpcarvallyo/mobileChallenge",
   "license": "MIT",
   "main": "dist/carousel.js",
   "dependencies": {
