@@ -1,5 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import Breakpoint, { BreakpointProvider } from 'react-socks';
 import Carousel from './carousel'
 import Squares from './Squares'
 import Logo1 from './images/1.svg'
@@ -15,13 +16,15 @@ class App extends React.Component {
 
   render () {
     return (
-      <div style={{height: '100vh'}}>
-        <Carousel loop auto className="custom-class">
-          <Squares numIcon={Logo1} content="Gradients" content2="Start, end, angle" src={Photo1} icon={FPO}/>
-          <Squares numIcon={Logo2} content="Presets" content2="Manage presets" src={Photo2} icon={FPO}/>
-          <Squares numIcon={Logo3} content="Colors" content2="Pick any color" src={Photo3} icon={FPO}/>
-        </Carousel>
-      </div>
+      <BreakpointProvider>
+        <div style={{height: '100vh'}}>
+          <Carousel loop auto className="custom-class">
+            <Squares numIcon={Logo1} content="Gradients" content2="Start, end, angle" src={Photo1} icon={FPO}/>
+            <Squares numIcon={Logo2} content="Presets" content2="Manage presets" src={Photo2} icon={FPO}/>
+            <Squares numIcon={Logo3} content="Colors" content2="Pick any color" src={Photo3} icon={FPO}/>
+          </Carousel>
+        </div>
+      </BreakpointProvider>
     )
   }
 }
